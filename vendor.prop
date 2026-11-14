@@ -311,6 +311,7 @@ debug.sf.auto_latch_unsignaled=0
 
 # USB
 ro.usb.uvc.enabled=true
+ro.usb.uvc.swap_uv=true
 sys.usb.mtp.batchcancel=1
 vendor.usb.controller=4e00000.dwc3
 vendor.usb.device=4e00000.ssusb
