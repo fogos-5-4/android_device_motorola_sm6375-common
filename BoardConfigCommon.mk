@@ -183,3 +183,6 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # inherit from the proprietary version
 include vendor/motorola/sm6375-common/BoardConfigVendor.mk
+
+DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE += device/motorola/sm6375-common/duck-rkp/compatibility_matrix.xml
+
